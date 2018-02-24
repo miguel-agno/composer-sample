@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Halcyon\\": "src/"
+        },
+        "files":[
+                "src/helpers.php"
+        ]
+    }
+}
